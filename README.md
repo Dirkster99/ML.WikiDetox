@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r98j7l7cacmc5rl9?svg=true)](https://ci.appveyor.com/project/Dirkster99/ml-wikidetox)
+
 # ML.WikiDetox
 
 A binary machine learning text classification sample using ML.Net
