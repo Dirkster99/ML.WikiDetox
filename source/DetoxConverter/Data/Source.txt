@@ -1,0 +1,13 @@
+
+Following this Blog Post
+- Filter Toxic Comments With C# And ML.NET Machine Learning
+  https://medium.com/machinelearningadvantage/filter-toxic-wikipedia-comments-with-c-and-ml-net-machine-learning-ad94869f90b4
+
+Data Source:
+- https://meta.wikimedia.org/wiki/Research:Detox/Data_Release
+
+- The Aggression Figshare dataset
+  https://figshare.com/articles/Wikipedia_Talk_Labels_Toxicity/4563973
+
+Nuget Pre-requisite:
+- Microsoft.Data.Analysis version 0.2.0 (implements dataframe for data conversion)
