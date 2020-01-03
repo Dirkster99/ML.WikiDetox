@@ -8,4 +8,4 @@ by Mark Farragher. Be sure to red Mark's blog to better understand the machine l
 **wikiDetox** project.
 
 The **DetoxConverter** project is just a small dataframe based project that converts the available Wiki data source
-into the format that was used in Mark's böog post (since the data format described by Mark does not seem to be available any longer).
+into the format that was used in Mark's blog post (since the data format described by Mark does not seem to be available any longer).
